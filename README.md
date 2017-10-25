@@ -1,2 +1,3 @@
-# viewportResolution
-Shows viewport dimensions
+### viewportResolution
+
+###### Shows viewport dimensions
